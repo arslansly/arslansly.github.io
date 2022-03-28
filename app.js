@@ -1460,7 +1460,20 @@ const kategoriListe = ()=>{
 }).join('');
 btnContainer.innerHTML = kategoriBtn;
 
-
+btnContainer.addEventListener('change',(e)=>{
+  const kategori = e.target.value;
+  const menuKategori = menu.filter((menuItem)=>{
+    if(menuItem.category===kategori){
+      return menuItem;
+    }
+  }); 
+  if(kategori === "Hepsi"){
+    menuList(menu);
+  }else{
+    menuList(menuKategori);
+  }
+});
+/*
 const filterBtn = document.querySelectorAll('.btn-item');
 filterBtn.forEach((btn)=>{
   btn.addEventListener('click',(e)=>{
@@ -1476,7 +1489,7 @@ filterBtn.forEach((btn)=>{
       menuList(menuKategori);
     }
   });
-});
+});*/
 };
 
 const menuList = (menuItems) => {
