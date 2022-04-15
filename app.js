@@ -20,7 +20,7 @@ const menu = [
     title: "Börekli Kahvaltı",
     category: "Kahvaltılıklar",
     price: 55,
-    img: "img/börek.jpg",
+    img: "img/boreklikahvaltı.jpg",
     desc: `Börekli Kahvaltı Tabağı`,
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: "Delfino Kahvaltı Tabağı",
     category: "Kahvaltılıklar",
     price: 60,
-    img: "",
+    img: "img/lüxkahvaltı.jpg",
     desc: `Delfino Kahvaltı Tabağı İle Lezzeti Doruklarda Yaşayın. `,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "Serpme Kahvaltı",
     category: "Kahvaltılıklar",
     price: 129,
-    img: "img/express.jpg",
+    img: "img/2kısılıkkahvaltı.jpg",
     desc: `Serpme Kahvaltının Tadını Çıkartın`,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "Sıcak Simit Tabağı",
     category: "Kahvaltılıklar",
     price: 30,
-    img: "img/simit.jpg",
+    img: "img/sıcaksımıttabagı.jpg",
     desc: `Sıcak Simitin Tadını Çıkartın`,
   },
   {
@@ -133,7 +133,7 @@ const menu = [
     title: "Sosis Tabağı",
     category: "Aperatifler",
     price: 35,
-    img: "img/.jpg",
+    img: "img/sosistabagı.jpg",
     desc: ``,
   },
   {
@@ -157,7 +157,7 @@ const menu = [
     title: "Soğan Halkası",
     category: "Aperatifler",
     price: 30,
-    img: "img/.jpg",
+    img: "img/soganhalkası.jpg",
     desc: ``,
   },
   {
@@ -189,7 +189,7 @@ const menu = [
     title: "Nugget",
     category: "Aperatifler",
     price: 35,
-    img: "img/.jpg",
+    img: "img/nugget.jpg",
     desc: ``,
   },
   {
@@ -205,7 +205,7 @@ const menu = [
     title: "Mantı",
     category: "Aperatifler",
     price: 40,
-    img: "img/.jpg",
+    img: "img/mantı.jpg",
     desc: ``,
   },
   {
@@ -277,7 +277,7 @@ const menu = [
     title: "Karışık Tost",
     category: "Tost",
     price: 32,
-    img: "img/.jpg",
+    img: "img/karısıktost.jpg",
     desc: ``,
   },
   {
@@ -301,7 +301,7 @@ const menu = [
     title: "Kaşarlı Gözleme",
     category: "Gözleme",
     price: 27,
-    img: "img/.jpg",
+    img: "img/kaşarlıgözleme.jpg",
     desc: ``,
   },
   {
@@ -517,7 +517,7 @@ const menu = [
     title: "Cheese Burger",
     category: "Burgerler",
     price: 37,
-    img: "img/.jpg",
+    img: "img/cheeseburger.jpg",
     desc: ``,
   },
   {
@@ -628,7 +628,7 @@ const menu = [
     title: "Akdeniz Salata",
     category: "Salatalar",
     price: 30,
-    img: "img/.jpg",
+    img: "img/akdenizsalatası.jpg",
     desc: ``,
   },
   {
@@ -665,10 +665,10 @@ const menu = [
   },
   {
     id: 84,
-    title: "Sezar Salata",
+    title: "Tavuklu Sezar Salata",
     category: "Salatalar",
     price: 45,
-    img: "img/.jpg",
+    img: "img/tavuklusezarsalata.jpg",
     desc: ``,
   },
   {
@@ -700,7 +700,7 @@ const menu = [
     title: "Traliçe",
     category: "Sütlü Tatlılar",
     price: 25,
-    img: "img/.jpg",
+    img: "img/karameliitrileçe.jpg",
     desc: ``,
   },
   {
@@ -708,7 +708,7 @@ const menu = [
     title: "Profiterol",
     category: "Sütlü Tatlılar",
     price: 30,
-    img: "img/.jpg",
+    img: "img/profiterol.jpg",
     desc: ``,
   },
   {
@@ -716,7 +716,7 @@ const menu = [
     title: "Spangle",
     category: "Sütlü Tatlılar",
     price: 30,
-    img: "img/.jpg",
+    img: "img/spangle.jpg",
     desc: ``,
   },
   {
@@ -724,7 +724,7 @@ const menu = [
     title: "Sütlaç",
     category: "Sütlü Tatlılar",
     price: 30,
-    img: "img/.jpg",
+    img: "img/sutlac.jpg",
     desc: ``,
   },
   {
@@ -732,7 +732,7 @@ const menu = [
     title: "Kazandibi",
     category: "Sütlü Tatlılar",
     price: 25,
-    img: "img/.jpg",
+    img: "img/kazandibi.jpg",
     desc: ``,
   },
   {
@@ -764,7 +764,7 @@ const menu = [
     title: "Magnolia",
     category: "Sütlü Tatlılar",
     price: 35,
-    img: "img/.jpg",
+    img: "img/meyvelimag.jpg",
     desc: ``,
   },
   {
@@ -900,7 +900,7 @@ const menu = [
     title: "Ekler",
     category: "Ek Lezzetler",
     price: 30,
-    img: "img/.jpg",
+    img: "img/cıkolatalıekler.jpg",
     desc: ``,
   },
   {
@@ -1220,7 +1220,7 @@ const menu = [
     title: "Kola,Sprite,Fanta",
     category: "Soğuk İçeçekler",
     price: 15,
-    img: "img/.jpg",
+    img: "img/kola.jpg",
     desc: ``,
   },
   {
@@ -1244,7 +1244,7 @@ const menu = [
     title: "Kola,Sprite,Fantaa",
     category: "Soğuk İçeçekler",
     price: 15,
-    img: "img/.jpg",
+    img: "img/kola.jpg",
     desc: ``,
   },
   {
@@ -1300,7 +1300,7 @@ const menu = [
     title: "Ayran",
     category: "Soğuk İçeçekler",
     price: 8,
-    img: "img/.jpg",
+    img: "img/ayran.jpg",
     desc: ``,
   },
   {
