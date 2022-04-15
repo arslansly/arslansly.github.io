@@ -539,7 +539,7 @@ const menu = [
     id: 68,
     title: "Mini Tavuk Burger",
     category: "Burgerler",
-    price: --,
+    price: 00,
     img: "img/.jpg",
     desc: ``,
   },
@@ -1241,7 +1241,7 @@ const menu = [
   },
   {
     id: 156,
-    title: "Kola,Sprite,Fanta",
+    title: "Kola,Sprite,Fantaa",
     category: "Soğuk İçeçekler",
     price: 15,
     img: "img/.jpg",
