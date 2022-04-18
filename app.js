@@ -1531,7 +1531,7 @@ const menuList = (menuItems) => {
 menuList(menu);
 kategoriListe();
 
-=======
+======= <
 const menu = [
   {
     id: 1,
