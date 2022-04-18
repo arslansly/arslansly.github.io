@@ -1528,4 +1528,6 @@ const menuList = (menuItems) => {
   section.innerHTML = displayMenu;
 };
 
+menuList(menu);
+kategoriListe();
 
