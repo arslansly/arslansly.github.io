@@ -1244,7 +1244,7 @@ const menu = [
   
   {
     id: 156,
-    title: "Sade Soda",
+    title: "Sade Sodaa",
     category: "Soğuk İçeçekler",
     price: 10,
     img: "img/sadesoda.jpg",
