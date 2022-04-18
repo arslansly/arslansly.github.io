@@ -1242,7 +1242,14 @@ const menu = [
     desc: ``,
   },
   
-  
+  {
+    id: 156,
+    title: "Sade Soda",
+    category: "Soğuk İçeçekler",
+    price: 10,
+    img: "img/sadesoda.jpg",
+    desc: ``,
+  },
   {
     id: 157,
     title: "Sade Soda",
